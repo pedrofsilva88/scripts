@@ -1,5 +1,4 @@
 
-a->a
-b->b
-c->c
-d->d
+aa
+bb
+cc
